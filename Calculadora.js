@@ -1,3 +1,4 @@
+/*definir los metodos por medio de una clase */
 class Calculadora {
     sumar(num1, num2) {
         return num1 + num2;
